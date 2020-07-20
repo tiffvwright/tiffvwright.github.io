@@ -1,0 +1,44 @@
+
+body {
+	background-color: #153B44; 
+	text-align: center;
+	color: #FFFFFF;
+	font-size: 18px;
+    line-height: 1.5em;
+    margin: 300px;
+    font-family: 'Fira Sans', sans-serif;
+}
+
+
+h1 {
+	color: #FFFFFF;
+	font-family: 'Fira Code', monospace;
+	font-size: 1.5em;
+}
+
+
+h2 {
+	color: #FFFFFF;
+	font-family: 'Fira Code', monospace;
+}
+
+
+header nav ul li {
+  display: inline-block;
+  margin: 1em;
+  font-size: 1em;
+  list-style: none;
+}
+
+
+a {
+	color: #F2BA62;
+}
+
+a:hover {
+  background-color: #0D4961;
+  transition: font-size 1s;
+  font-size: 1em;
+  color: #F2BA62;
+}
+
