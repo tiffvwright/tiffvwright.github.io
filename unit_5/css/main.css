@@ -7,6 +7,7 @@ body {
     line-height: 1.5em;
     margin: 0 auto;
     font-family: 'Fira Sans', sans-serif;
+    background-color: #E89C6C;
 }
 
 
@@ -28,6 +29,7 @@ header nav ul li {
   margin: 0 auto;
   font-size: 1em;
   list-style: none;
+  background-color: #E8C66A;
 }
 
 
@@ -42,3 +44,7 @@ a:hover {
   color: #F2BA62;
 }
 
+
+header {
+  background-color: #FFED74;
+}
